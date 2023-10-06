@@ -3,6 +3,8 @@ Source: https://www.kaggle.com/datasets/zynicide/wine-reviews/data
 
 Updated Dataset: https://www.kaggle.com/datasets/manyregression/updated-wine-enthusiast-review
 
+Visualization: https://public.tableau.com/app/profile/young.lee2672/viz/WineDashboard_16964503211660/Dashboard1
+
 For this project, we took raw data with focused metrics in price, rating, location through SQL server and excel to improve usability for analysis.
 
 ## Step 1:
