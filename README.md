@@ -1,5 +1,6 @@
 # Data Cleaning Project: Wine Ratings
 Source: https://www.kaggle.com/datasets/zynicide/wine-reviews/data
+
 Updated Dataset: https://www.kaggle.com/datasets/manyregression/updated-wine-enthusiast-review
 
 For this project, we took raw data with focused metrics in price, rating, location through SQL server and excel to improve usability for analysis.
